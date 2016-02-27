@@ -1,5 +1,5 @@
 ---
-layout: position
+layout: post
 title: Hello World
 permalink: /:year/:month/:title
 ---
